@@ -1,0 +1,9 @@
+# Ignore the virtual environment since each user will create their own virtual env and the requirements.txt
+# (cont) file will isnstall all the extra modules. 
+venv/
+
+# Ignore vscode configurations.
+.vscode
+
+# Ignore crash files.
+__pycache__/
