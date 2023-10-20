@@ -1,6 +1,6 @@
-## Welcome to PYSITE!
+# Welcome to PYSITE!
 
-# How to create a Python Virtual Environment:
+## An application that uses Python's Flask for beckend.
 
 ### To run the application, use the following command:
 python run.py
